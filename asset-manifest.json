@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "./static/css/main.1f34d5ab.css",
-    "main.js": "./static/js/main.39dc59fd.js",
+    "main.js": "./static/js/main.2582f857.js",
     "static/js/787.cc0e7361.chunk.js": "./static/js/787.cc0e7361.chunk.js",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
     "static/media/earth.glb": "./static/media/earth.90ca2aaa1f1069bba4e4.glb",
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
-    "static/media/bg.png": "./static/media/bg.b1df8bdc42d59bd913e4.png",
     "static/media/text.fbx": "./static/media/text.17dfca6770456092968d.fbx",
-    "static/media/city.png": "./static/media/city.fd96f882197625588823.png",
-    "static/media/panoramic.png": "./static/media/panoramic.ac4d0e042b2f177a725f.png",
-    "static/media/meta.png": "./static/media/meta.d2de0b0cb2bdd76642a8.png",
-    "static/media/earth.png": "./static/media/earth.6f84a36a5fc7fcd19116.png",
+    "static/media/bg.png": "./static/media/bg.471dce5a22366b3332a2.png",
+    "static/media/panoramic.png": "./static/media/panoramic.482b288b066a9d242297.png",
+    "static/media/city.png": "./static/media/city.40e4ea18f5297451bc7a.png",
+    "static/media/meta.png": "./static/media/meta.c0c3a9ba9764ea13bc5e.png",
+    "static/media/earth.png": "./static/media/earth.e555ee849389aaa627de.png",
     "index.html": "./index.html",
     "main.1f34d5ab.css.map": "./static/css/main.1f34d5ab.css.map",
-    "main.39dc59fd.js.map": "./static/js/main.39dc59fd.js.map",
+    "main.2582f857.js.map": "./static/js/main.2582f857.js.map",
     "787.cc0e7361.chunk.js.map": "./static/js/787.cc0e7361.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f34d5ab.css",
-    "static/js/main.39dc59fd.js"
+    "static/js/main.2582f857.js"
   ]
 }
