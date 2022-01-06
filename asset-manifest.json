@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.7336fb73.css",
-    "main.js": "./static/js/main.f22cce3e.js",
+    "main.css": "./static/css/main.9458c64b.css",
+    "main.js": "./static/js/main.23eb0384.js",
     "static/js/27.0b990f0b.chunk.js": "./static/js/27.0b990f0b.chunk.js",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
+    "static/media/plant_cell.glb": "./static/media/plant_cell.d63210fb24baaf713401.glb",
     "static/media/earth.glb": "./static/media/earth.90ca2aaa1f1069bba4e4.glb",
+    "static/media/animal_cell.glb": "./static/media/animal_cell.2dc1761e4868fbd19b20.glb",
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
     "static/media/text.fbx": "./static/media/text.17dfca6770456092968d.fbx",
+    "static/media/zelda.png": "./static/media/zelda.9738a193f3318e9eb73c.png",
     "static/media/bg.png": "./static/media/bg.471dce5a22366b3332a2.png",
+    "static/media/lunar.png": "./static/media/lunar.feb038cecf7395efe41b.png",
+    "static/media/scan.png": "./static/media/scan.bf7b0ab8a0d2569bd8c3.png",
     "static/media/panoramic.png": "./static/media/panoramic.482b288b066a9d242297.png",
     "static/media/city.png": "./static/media/city.40e4ea18f5297451bc7a.png",
     "static/media/meta.png": "./static/media/meta.c0c3a9ba9764ea13bc5e.png",
+    "static/media/3d.png": "./static/media/3d.83eedbc96c7fa949aed6.png",
     "static/media/earth.png": "./static/media/earth.e555ee849389aaa627de.png",
+    "static/media/cell.png": "./static/media/cell.8b74106f3de1551f0cb7.png",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.7336fb73.css",
-    "static/js/main.f22cce3e.js"
+    "static/css/main.9458c64b.css",
+    "static/js/main.23eb0384.js"
   ]
 }
