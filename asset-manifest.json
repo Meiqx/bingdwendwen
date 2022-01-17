@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.ec24f4b3.css",
-    "main.js": "./static/js/main.d8b54f2e.js",
+    "main.js": "./static/js/main.a4c1a5a9.js",
     "static/js/27.0b990f0b.chunk.js": "./static/js/27.0b990f0b.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
     "static/media/plant_cell.glb": "./static/media/plant_cell.d63210fb24baaf713401.glb",
     "static/media/earth.glb": "./static/media/earth.90ca2aaa1f1069bba4e4.glb",
-    "static/media/link.fbx": "./static/media/link.8ccb144db3bbd4c080a4.fbx",
+    "static/media/link.fbx": "./static/media/link.bb2cfa2fd292dda09d77.fbx",
     "static/media/animal_cell.glb": "./static/media/animal_cell.2dc1761e4868fbd19b20.glb",
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
     "static/media/text.fbx": "./static/media/text.17dfca6770456092968d.fbx",
     "static/media/zelda.png": "./static/media/zelda.0ea4daeafb76967584bd.png",
+    "static/media/bg.jpg": "./static/media/bg.4440667a0dec85976329.jpg",
     "static/media/bg.png": "./static/media/bg.471dce5a22366b3332a2.png",
     "static/media/zelda_map.png": "./static/media/zelda_map.11824367105b50b7b86c.png",
     "static/media/lunar.png": "./static/media/lunar.b13356df437baf87cdd8.png",
@@ -28,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.ec24f4b3.css",
-    "static/js/main.d8b54f2e.js"
+    "static/js/main.a4c1a5a9.js"
   ]
 }
