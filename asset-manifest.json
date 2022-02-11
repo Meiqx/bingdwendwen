@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d51a1c7d.css",
-    "main.js": "./static/js/main.691d766f.js",
+    "main.js": "./static/js/main.cfa2295a.js",
     "static/js/27.757b9be6.chunk.js": "./static/js/27.757b9be6.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
@@ -30,6 +30,7 @@
     "static/media/car.png": "./static/media/car.9437664c90ec6b0449e7.png",
     "static/media/city.png": "./static/media/city.f50bbdb6bace92c4628c.png",
     "static/media/tree.png": "./static/media/tree.5b95f66c07d500d76b55.png",
+    "static/media/olympic.png": "./static/media/olympic.9685e7c3d0237565671d.png",
     "static/media/Eye_Bump2_1k.jpg": "./static/media/Eye_Bump2_1k.63261e58684e227e20de.jpg",
     "static/media/segmengfault.png": "./static/media/segmengfault.01f6cdf5b24e4c2e20d7.png",
     "static/media/normalMap.png": "./static/media/normalMap.7706710b833084c7b855.png",
@@ -52,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.d51a1c7d.css",
-    "static/js/main.691d766f.js"
+    "static/js/main.cfa2295a.js"
   ]
 }
